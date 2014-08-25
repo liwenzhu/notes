@@ -17,3 +17,5 @@ Node Programming
 ================
 
 * [对2的倍数的整数取余数性能可以提高5倍](https://github.com/liwenzhu/notes/blob/master/node/mod_programming.md)
+
+* [自动识别编码的GET请求](https://github.com/liwenzhu/notes/blob/master/node/http_get.md)
