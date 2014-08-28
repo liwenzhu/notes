@@ -8,6 +8,8 @@ Links
 
 * [Github Markdown document](https://help.github.com/articles/github-flavored-markdown)
 
+* [算法和数据结构就应该这么学](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
+
 NLP
 ===
 
