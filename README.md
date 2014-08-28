@@ -23,3 +23,8 @@ Node Programming
 * [自动识别编码的GET请求](https://github.com/liwenzhu/notes/blob/master/node/http_get.md)
 
 * [可自动重起和记录log的node集群实现](https://github.com/liwenzhu/notes/blob/master/node/cluster_programming.md)
+
+RegExp
+======
+
+* [Javascript 匹配innerText](https://github.com/liwenzhu/notes/blob/master/regexp/html.md)
