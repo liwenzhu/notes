@@ -24,6 +24,8 @@ Node Programming
 
 * [可自动重起和记录log的node集群实现](https://github.com/liwenzhu/notes/blob/master/node/cluster_programming.md)
 
+* [控制Stream的下载速度](https://github.com/liwenzhu/notes/blob/master/node/stream_control.md)
+
 RegExp
 ======
 
