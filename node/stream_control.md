@@ -4,8 +4,11 @@
 可以实现类似迅雷的下载速度控制之类的需求。
 
 ```javascript
+var SPEED_LIMIT = 200; // limit 200kb
+var SPEED = (SPEED_LIMIT * 1024) / 1000.0;
+
 req = http.request(options, function (res) {
-		buffers = [];
+		var buffers = [];
 		var startTime = new Date();
 		var tmpSentBytes = 0, elapsedTime, assumedTime, lag;
 		res.on('data', function (chunk) {
@@ -14,7 +17,7 @@ req = http.request(options, function (res) {
 			buffers.push(chunk);
 			tmpSentBytes += chunk.length;
 			elapsedTime = new Date() - startTime;
-	        assumedTime = tmpSentBytes >> SPEED_LIMIT;
+	        assumedTime = tmpSentBytes / SPEED;
 	        lag = assumedTime - elapsedTime;
 		    if (lag > 0) {
 		      // console.log('too fast, download will resume in: ' + lag + 'ms');
