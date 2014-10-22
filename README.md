@@ -10,10 +10,13 @@ Links
 
 * [算法和数据结构就应该这么学](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
 
+
 NLP
 ===
 
 * [准确率、精确率、召回率](https://github.com/liwenzhu/notes/blob/master/nlp/accuracy_precision_recall.md)
+
+* [Tweet NLP](http://www.ark.cs.cmu.edu/TweetNLP/)
 
 Node Programming
 ================
@@ -25,6 +28,11 @@ Node Programming
 * [可自动重起和记录log的node集群实现](https://github.com/liwenzhu/notes/blob/master/node/cluster_programming.md)
 
 * [控制Stream的下载速度](https://github.com/liwenzhu/notes/blob/master/node/stream_control.md)
+
+Code
+====
+
+* [Benchmarks for leveldown](https://github.com/liwenzhu/notes/blob/master/node/leveldb_bench.md)
 
 RegExp
 ======
