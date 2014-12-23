@@ -33,6 +33,8 @@ Node Programming
 
 * [控制Stream的下载速度](https://github.com/liwenzhu/notes/blob/master/node/stream_control.md)
 
+* [Node发送POST消息](https://github.com/liwenzhu/notes/blob/master/node/post.md
+
 Code
 ====
 
