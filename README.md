@@ -45,6 +45,7 @@ Code
 ====
 
 * [Benchmarks for leveldown](https://github.com/liwenzhu/notes/blob/master/node/leveldb_bench.md)
+* [mongoose connect multiply db](https://github.com/liwenzhu/notes/blob/master/node/mongoose.md)
 
 RegExp
 ======
