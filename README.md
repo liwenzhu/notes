@@ -35,6 +35,8 @@ Node Programming
 
 * [Node发送POST消息](https://github.com/liwenzhu/notes/blob/master/node/post.md)
 
+* [npm spin](https://github.com/liwenzhu/notes/blob/master/node/npm.md)
+
 Bootstrap
 =========
 
