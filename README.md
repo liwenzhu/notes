@@ -43,6 +43,11 @@ Bootstrap
 * [Bootstrap 上传文件 Button](https://github.com/liwenzhu/notes/blob/master/bootstrap/upload.md)
 * [Restore tab-left which is removed from Bootstrap 3](https://github.com/liwenzhu/notes/blob/master/bootstrap/tag-left.md)
 
+Linux
+======
+
+* [Linux 忘记密码重置](https://github.com/liwenzhu/notes/blob/master/linux/forgotPassword.md)
+
 Code
 ====
 
