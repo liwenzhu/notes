@@ -63,5 +63,5 @@ RegExp
 Astrill
 ======
 
-* [Site filter: Tunnel only these sites](https://github.com/liwenzhu/notes/astrill/master/site_filter.md)
+* [Site filter: Tunnel only these sites](https://github.com/liwenzhu/notes/blob/master/astrill/site_filter.md)
 
